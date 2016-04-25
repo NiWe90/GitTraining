@@ -1,5 +1,8 @@
 hallo wie gehts denn heute so?
 weiter gehts mal sehen was passiert ;)
+<<<<<<< HEAD
 
 
 Käsebrot
+=======
+>>>>>>> test

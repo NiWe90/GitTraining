@@ -1,4 +1,4 @@
 # GitTraining
 
 Let´s learn some git basics!
-lalalalala
+2. Änderung Juhu
